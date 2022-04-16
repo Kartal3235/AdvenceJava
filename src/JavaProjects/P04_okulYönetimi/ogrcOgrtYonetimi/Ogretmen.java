@@ -9,10 +9,6 @@ public class Ogretmen extends Kisi {
 
     }
 
-    public Ogretmen(String bolum, String sicilNo) {
-        this.bolum = bolum;
-        this.sicilNo = sicilNo;
-    }
 
     public Ogretmen(String adSoyad, String kimlikNo, int yas, String bolum, String sicilNo) {
         super(adSoyad, kimlikNo, yas);
@@ -44,3 +40,37 @@ public class Ogretmen extends Kisi {
                 '}';
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
